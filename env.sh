@@ -1,0 +1,8 @@
+PLATFORM=none
+KUBEFLOW_REPO=/Users/sarkar/source/ML/kubeflow
+KUBEFLOW_VERSION=master
+KUBEFLOW_KS_DIR=/Users/sarkar/source/ML/kubeflow/kfapp/ks_app
+KUBEFLOW_DOCKER_REGISTRY=
+DOCKER_REGISTRY_KATIB_NAMESPACE=
+K8S_NAMESPACE=kubeflow
+KUBEFLOW_PLATFORM=null
